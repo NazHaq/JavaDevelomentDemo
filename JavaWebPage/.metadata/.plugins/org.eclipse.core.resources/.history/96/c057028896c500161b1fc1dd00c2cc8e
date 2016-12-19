@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Registration Form</title>
+</head>
+<body>
+<h1> Registration Form</h1> 
+<hr>
+<form name="f1" method="GET" action="Register">
+<table>
+<tbody>
+<tr>
+<td>User Name:</td>
+<td><input type="text" name="userName"/>
+</tr>
+
+<tr>
+<td>Password:</td>
+<td><input type="password" name="passwd"/>
+</tr>
+
+
+
+
+</tbody>
+
+
+</table>
+
+</form>
+</body>
+</html>
